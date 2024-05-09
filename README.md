@@ -9,8 +9,11 @@ At the first moment it will be needed to follow some rules:
 3. The limit of digits, for each  operand, is four;
 4. For now, the only accepted operators are sum and substraction.
 
-# Upcoming updates
+## Upcoming updates
 In the future, new tools will be added, being them:
 1. Possibility of inserction of more digits at the operations;
 2. New mathematical operators (at the beginning it will be inserted division and multiplication).
+
+## Input model and expected results
+<img src="Results/Results.png">
 
